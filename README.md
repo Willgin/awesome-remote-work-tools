@@ -60,6 +60,8 @@ Tools for scheduling across time zones and managing distributed team availabilit
 ## Async Video and Screen Recording
 Tools for creating video messages and tutorials without requiring real-time meetings.
 
+* [Botik](https://github.com/777genius/discord-meeting-assistant) - Self-hosted Discord meeting assistant that records voice calls, posts a transcript and summary, and answers questions about the meeting. **Best for:** remote teams that already meet in Discord and want notes without a hosted Otter/Fireflies account.
+
 * [Loom](https://www.loom.com) - Async video messaging for screen recording and camera capture. **Workflow integration:** Record a video, automatically generate a shareable link, and embed in Slack, Notion, or email—recipients watch at 1-2x speed when convenient. **Unique feature:** "Call to Action" feature lets viewers add comments with timestamps, creating asynchronous discussion threads on specific video moments. **Limitation:** Free tier limits videos to 5 minutes; Business tier adds custom branding, advanced analytics, and SSO. **Best for:** Product demos, bug reports, design feedback, and onboarding tutorials.
 
 * [Vidyard](https://www.vidyard.com) - Video platform for sales and customer success teams. **Sales focus:** Track viewer engagement (watch time, drop-off points) to gauge prospect interest; integrate with CRM to log video interactions. **Unique feature:** "Chapters" allow creating interactive video experiences with clickable sections—useful for product walkthroughs and training. **Best for:** Personalized sales outreach, customer onboarding, and support responses where video adds value over text.
