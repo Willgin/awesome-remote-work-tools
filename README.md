@@ -56,6 +56,7 @@ Tools for scheduling across time zones and managing distributed team availabilit
 * [World Time Buddy](https://www.worldtimebuddy.com) - Visual time zone converter and meeting scheduler. **Key feature:** Overlay multiple time zones on a single timeline to find overlapping working hours—essential for scheduling meetings across continents. **Hidden capability:** Can integrate with Google Calendar and Outlook to automatically convert meeting times for participants in different zones. **Best for:** Quick visualization of team availability without complex setup.
 
 * [Clockify](https://clockify.me) - Time tracking with time zone awareness. **Unique aspect:** Each team member can set their own time zone, and reports automatically convert timestamps to viewer's local time. **Often overlooked:** "Breakdown" report shows time spent by project, client, and tag across different time zones—useful for billing international clients. **Free tier:** Unlimited users and projects with basic reporting; paid tiers add invoicing, billing rates, and advanced analytics.
+* [Client Close Kit Timesheet](https://darweesh128-cmd.github.io/client-close-kit/timesheet.html) - Free browser-only freelance timesheet and time tracker (no signup). Log hours by client/project, export CSV for invoicing, optional invoice/quote tools in the same kit. **Best for:** Solo freelancers who need a zero-friction hours log before sending an invoice.
 
 ## Async Video and Screen Recording
 Tools for creating video messages and tutorials without requiring real-time meetings.
