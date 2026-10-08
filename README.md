@@ -32,6 +32,8 @@ Platforms for tracking workflows, managing deadlines, and organizing team capaci
 
 * [Trello](https://trello.com) - Visual Kanban-based project management known for simplicity. **Power-Ups system:** Extend functionality with 150+ integrations (Calendar, Custom Fields, Card Repeater, Butler automation). **Often overlooked:** "Butler" automation (built-in, no-code) can automate repetitive tasks like moving cards, setting due dates, and sending notifications based on triggers. **Limitation:** Free tier restricts to 10 boards per workspace and limited automation runs—teams quickly outgrow this. **Best use case:** Simple workflow tracking for marketing campaigns, content calendars, and hiring pipelines where complex dependencies aren't needed.
 
+* [Tale](https://github.com/tale-project/tale) - Self-hosted team workspace with task boards, shared files, and human review of agent reports and deliverables.
+
 ## Documentation and Knowledge Base
 Tools for creating wikis, standard operating procedures (SOPs), and team knowledge bases.
 
