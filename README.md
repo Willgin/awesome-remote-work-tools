@@ -21,6 +21,8 @@ Tools designed to reduce real-time interruptions, eliminate notification spam, a
 
 * [Basecamp](https://basecamp.com) - All-in-one toolkit from 37signals (formerly 37signals) emphasizing "calm" work philosophy. **Unique approach:** Combines message boards (not chat), to-do lists, file storage, real-time chat (Campfire), and automatic check-ins into a single interface—eliminating tool-switching overhead. **Pricing philosophy:** Flat $299/month for unlimited users and projects, making it economical for large organizations but expensive for small teams. **Often criticized:** Limited integrations compared to competitors, as Basecamp intentionally maintains a closed ecosystem to preserve simplicity. **Best for:** Teams that value long-form asynchronous discussions over rapid-fire chat messages.
 
+* [Paceflow Polling](https://www.paceflow.io/polling-app) - Free online tool for collecting team votes and making group decisions. **Main use case:** Create a poll, share the link with teammates, and collect responses without needing to schedule a meeting. **Best for:** Quick team decisions, gathering preferences, and getting input from people working across different schedules. **Limitation:** Focused on simple polls rather than ongoing team discussions or project management.
+
 ## Task and Project Management
 Platforms for tracking workflows, managing deadlines, and organizing team capacity.
 
