@@ -1,4 +1,4 @@
-# Awesome Remote Work Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 A curated list of tools, platforms, and resources for remote work, asynchronous communication, and distributed team management.
 
@@ -31,6 +31,8 @@ Platforms for tracking workflows, managing deadlines, and organizing team capaci
 * [ClickUp](https://clickup.com) - "One app to replace them all" combining tasks, docs, goals, chat, and whiteboards. **Customization depth:** Every view (list, board, calendar, Gantt, timeline, workload) can be saved as custom templates. **Hidden complexity:** The sheer number of features (15+ views, custom fields, automations, goals, time tracking, docs) can overwhelm new users—recommend starting with 2-3 core features. **Unique feature:** "Everything" view provides organization-wide visibility across all spaces, folders, and lists. **Integration ecosystem:** 1,000+ integrations via Zapier and native connections, but performance can degrade with too many active integrations.
 
 * [Trello](https://trello.com) - Visual Kanban-based project management known for simplicity. **Power-Ups system:** Extend functionality with 150+ integrations (Calendar, Custom Fields, Card Repeater, Butler automation). **Often overlooked:** "Butler" automation (built-in, no-code) can automate repetitive tasks like moving cards, setting due dates, and sending notifications based on triggers. **Limitation:** Free tier restricts to 10 boards per workspace and limited automation runs—teams quickly outgrow this. **Best use case:** Simple workflow tracking for marketing campaigns, content calendars, and hiring pipelines where complex dependencies aren't needed.
+
+* [Novastart](https://novastart.com/) - Infinite-canvas workspace for organizing apps, collaborating on shared canvases, and working with AI agents. Free plan with optional paid plans.
 
 ## Documentation and Knowledge Base
 Tools for creating wikis, standard operating procedures (SOPs), and team knowledge bases.
