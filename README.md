@@ -1,4 +1,4 @@
-
+# Awesome Remote Work Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of tools, platforms, and resources for remote work, asynchronous communication, and distributed team management.
 
