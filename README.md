@@ -64,5 +64,7 @@ Tools for creating video messages and tutorials without requiring real-time meet
 
 * [Vidyard](https://www.vidyard.com) - Video platform for sales and customer success teams. **Sales focus:** Track viewer engagement (watch time, drop-off points) to gauge prospect interest; integrate with CRM to log video interactions. **Unique feature:** "Chapters" allow creating interactive video experiences with clickable sections—useful for product walkthroughs and training. **Best for:** Personalized sales outreach, customer onboarding, and support responses where video adds value over text.
 
+* [Vertov](https://vertov.app) - Browser screen recording for walkthroughs and tutorials. Edit a take through its transcript and share a link viewers can open without an account.
+
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest new tools or improvements to this list.
