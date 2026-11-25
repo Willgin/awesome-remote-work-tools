@@ -64,5 +64,7 @@ Tools for creating video messages and tutorials without requiring real-time meet
 
 * [Vidyard](https://www.vidyard.com) - Video platform for sales and customer success teams. **Sales focus:** Track viewer engagement (watch time, drop-off points) to gauge prospect interest; integrate with CRM to log video interactions. **Unique feature:** "Chapters" allow creating interactive video experiences with clickable sections—useful for product walkthroughs and training. **Best for:** Personalized sales outreach, customer onboarding, and support responses where video adds value over text.
 
+* [Valmera](https://valmera.io/tools/record-website-demo) - Browser-based video editor for asynchronous tutorials and product demos. Upload a screen recording or capture a public website, then direct cuts, zooms and captions by chat and review the MP4.
+
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest new tools or improvements to this list.
