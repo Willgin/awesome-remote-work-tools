@@ -64,5 +64,7 @@ Tools for creating video messages and tutorials without requiring real-time meet
 
 * [Vidyard](https://www.vidyard.com) - Video platform for sales and customer success teams. **Sales focus:** Track viewer engagement (watch time, drop-off points) to gauge prospect interest; integrate with CRM to log video interactions. **Unique feature:** "Chapters" allow creating interactive video experiences with clickable sections—useful for product walkthroughs and training. **Best for:** Personalized sales outreach, customer onboarding, and support responses where video adds value over text.
 
+* [FastScribe](https://fastscribe.org/) - Converts recordings of team updates and tutorials into editable, timestamped transcripts and SRT subtitles for asynchronous review.
+
 ## Contributing
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest new tools or improvements to this list.
